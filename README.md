@@ -1,3 +1,3 @@
 # P6
 
-https://github.com/neusgom/P6.git
+https://neusgom.github.io/P6/
